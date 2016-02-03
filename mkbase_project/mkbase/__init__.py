@@ -1,1 +1,1 @@
-# a package to provide base functionality for analytic work
+#!/usr/bin/env python
