@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import six, sqlalchemy, os, pandas, warnings
 
 __author__ = 'marshall markham'

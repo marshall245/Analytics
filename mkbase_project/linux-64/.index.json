@@ -1,0 +1,23 @@
+{
+  "mkbase-0.0.1-1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "1", 
+    "build_number": 1, 
+    "depends": [
+      "numpy <=1.9.*", 
+      "pandas <=0.16.*", 
+      "psycopg2", 
+      "python 2.*", 
+      "sqlalchemy"
+    ], 
+    "license": "BSD", 
+    "md5": "5c58e77f6ae423bc05460984d5bde2f3", 
+    "mtime": 1454470097.8598924, 
+    "name": "mkbase", 
+    "platform": "linux", 
+    "sig": null, 
+    "size": 8646, 
+    "subdir": "linux-64", 
+    "version": "0.0.1"
+  }
+}
